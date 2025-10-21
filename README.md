@@ -52,7 +52,9 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 ## REFERENCE IMAGE :
 <img width="679" height="683" alt="image" src="https://github.com/user-attachments/assets/b4ba1582-4584-4a94-94f6-0642c6abea6c" />
+
 ## REFINE PROMPT : for the given image, modify into a sunset look where people walking in the pavement and lanterns floating in the sky and flowers bloomed on the ground
+
 ## REFINED IMAGE :
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5e8fab0d-823d-4bd7-b73c-59754289c5b0" />
 
